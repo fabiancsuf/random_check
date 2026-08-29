@@ -1,3 +1,3 @@
-# awesome
+# Created a Header using the Hashtag symbol!
 
-hey I made a read me file
+Creating some regular text, awesome sauce!
